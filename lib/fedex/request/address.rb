@@ -83,7 +83,7 @@ module Fedex
       end
 
       def service
-        { :id => 'aval', :version => 4 }
+        { :id => 'aval', :version => 2 }
       end
 
       # Successful request
